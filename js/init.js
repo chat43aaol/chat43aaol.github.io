@@ -2,11 +2,11 @@
  * configuración en tu servidor de Firebase.  */
 // @ts-ignore
 firebase.initializeApp({
-   apiKey: "AIzaSyA8RriQJJtfl4MxbKtSwl1uBxmH48clyF0",
-  authDomain: "chatborrado-89c70.firebaseapp.com",
-  projectId: "chatborrado-89c70",
-  storageBucket: "chatborrado-89c70.appspot.com",
-  messagingSenderId: "1002843686378",
-  appId: "1:1002843686378:web:6d2dfed2f6e207c82a5e93",
-  measurementId: "G-2GNRVBFBK2"
+  apiKey: "AIzaSyDxUyh2s1jXj8XWQw_ftmJbBI50m7KfdE0",
+    authDomain: "chat43aaol-65c63.firebaseapp.com",
+    projectId: "chat43aaol-65c63",
+    storageBucket: "chat43aaol-65c63.appspot.com",
+    messagingSenderId: "205327454652",
+    appId: "1:205327454652:web:ea72f99cad5b101c359bb9",
+    measurementId: "G-D5L0H4XWH9"
     });
